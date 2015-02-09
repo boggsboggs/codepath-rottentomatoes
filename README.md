@@ -1,4 +1,5 @@
-Rotten Tomatoes (raw)
+#Rotten Tomatoes
+
 This is a movies app displaying top rental DVDs and searching for movies using the Rotten Tomatoes API.
 
 Time spent: 9hrs
