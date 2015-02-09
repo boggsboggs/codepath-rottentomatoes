@@ -25,7 +25,7 @@ Time spent: 9hrs
 # Walkthrough
 ![Video Walkthrough](Codepath-assignment1.gif)
 
-Credits
-(http://developer.rottentomatoes.com/docs/read/JSON)[Rotten Tomatoes API]
-(https://github.com/AFNetworking/AFNetworking)[AFNetworking]
-(http://www.cockos.com/licecap/)[LICEcap]
+#Credits
+* [Rotten Tomatoes API](http://developer.rottentomatoes.com/docs/read/JSON)
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+* [LICEcap](http://www.cockos.com/licecap/)
